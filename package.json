@@ -1,0 +1,18 @@
+{
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://tregusti.mit-license.org/"
+  }],
+  "name": "netatmo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.20.0"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "author": {
+    "name": "Glenn Jorde",
+    "email": "glenn@tregusti.com"
+  }
+}
