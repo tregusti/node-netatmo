@@ -10,7 +10,10 @@
     "request": "~2.20.0"
   },
   "devDependencies": {},
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tregusti/node-netatmo.git"
+  },
   "author": {
     "name": "Glenn Jorde",
     "email": "glenn@tregusti.com"
